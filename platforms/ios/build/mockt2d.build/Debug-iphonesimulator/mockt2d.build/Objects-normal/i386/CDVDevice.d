@@ -1,0 +1,24 @@
+dependencies: \
+  /Users/ondra/mockt2d/platforms/ios/mockt2d/Plugins/org.apache.cordova.device/CDVDevice.m \
+  /Users/ondra/mockt2d/platforms/ios/build/emulator/include/Cordova/CDV.h \
+  /Users/ondra/mockt2d/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h \
+  /Users/ondra/mockt2d/platforms/ios/build/emulator/include/Cordova/CDVAvailabilityDeprecated.h \
+  /Users/ondra/mockt2d/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h \
+  /Users/ondra/mockt2d/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h \
+  /Users/ondra/mockt2d/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h \
+  /Users/ondra/mockt2d/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h \
+  /Users/ondra/mockt2d/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h \
+  /Users/ondra/mockt2d/platforms/ios/build/emulator/include/Cordova/CDVViewController.h \
+  /Users/ondra/mockt2d/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h \
+  /Users/ondra/mockt2d/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h \
+  /Users/ondra/mockt2d/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h \
+  /Users/ondra/mockt2d/platforms/ios/build/emulator/include/Cordova/CDVURLProtocol.h \
+  /Users/ondra/mockt2d/platforms/ios/build/emulator/include/Cordova/CDVDebug.h \
+  /Users/ondra/mockt2d/platforms/ios/build/emulator/include/Cordova/CDVLocalStorage.h \
+  /Users/ondra/mockt2d/platforms/ios/build/emulator/include/Cordova/CDVTimer.h \
+  /Users/ondra/mockt2d/platforms/ios/build/emulator/include/Cordova/NSArray+Comparisons.h \
+  /Users/ondra/mockt2d/platforms/ios/build/emulator/include/Cordova/NSData+Base64.h \
+  /Users/ondra/mockt2d/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.h \
+  /Users/ondra/mockt2d/platforms/ios/build/emulator/include/Cordova/UIDevice+Extensions.h \
+  /Users/ondra/mockt2d/platforms/ios/build/emulator/include/Cordova/CDVJSON.h \
+  /Users/ondra/mockt2d/platforms/ios/mockt2d/Plugins/org.apache.cordova.device/CDVDevice.h

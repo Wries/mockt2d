@@ -1,0 +1,109 @@
+/* Empty. Add your own CSS if you like */
+.clubBg {
+        background: url('../images/background_main.png') no-repeat center center fixed; 
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        background-size: cover;
+}
+
+.bar-header {
+    background-color: rgba(40, 40, 40, 0.6) !important;
+    background-image: url('../images/t2d_small.png')!important;
+    background-repeat: no-repeat !important;
+    background-position: 50.001% 0 !important;
+    border: 0px !important;
+    border-bottom-color: transparent !important;
+    border-bottom: none;
+ }
+
+ .tabs{
+     background-color: rgba(40, 40, 40, 0.6) !important;
+ }
+
+ion-tabs.tabs-color-active-positive .tab-item.tab-item-active,ion-tabs.tabs-color-active-positive .tab-item.active, ion-tabs.tabs-color-active-positive .tab-item.activated  {
+    color: rgba(255, 254, 233, 1.0) ;
+}
+
+
+ion-tabs.tabs-color-active-positive .tab-item {
+    color: rgba(247, 223, 118, 1.0) ;
+}
+
+.item-complex .item-content, .item{
+    background-color: rgba(0,0,0,0) !important;
+}
+
+.card, .list-inset{
+    background-color: rgba(0,0,0,0) !important;
+}
+
+.yellowText{
+    color: rgba(247, 223, 118, 1.0) ;
+    text-align: center;
+    background: rgba(40, 40, 40, 0.6);
+}
+
+
+.tabs .tab-item .icon.drinks {
+  background-repeat: no-repeat;
+  background-position: 50%;
+  height: 70%;
+  background-image: url('../images/drinks_icon.png');
+  background-size:contain;
+}
+
+.tabs .tab-item .icon.drinksAct {
+  background-repeat: no-repeat;
+  background-position: 50%;
+  height: 70%;
+  background-image: url('../images/drinks_icon_act.png');
+  background-size:contain;
+}
+
+.tabs .tab-item .icon.venues {
+  background-repeat: no-repeat;
+  background-position: 50%;
+  height: 70%;
+  background-image: url('../images/venues_icon.png');
+  background-size:contain;
+}
+
+.tabs .tab-item .icon.venuesAct {
+  background-repeat: no-repeat;
+  background-position: 50%;
+  height: 70%;
+  background-image: url('../images/venues_icon_act.png');
+  background-size:contain;
+}
+
+.tabs .tab-item .icon.purchases {
+  background-repeat: no-repeat;
+  background-position: 50%;
+  height: 70%;
+  background-image: url('../images/purchases_icon.png');
+  background-size:contain;
+}
+
+.tabs .tab-item .icon.purchasesAct {
+  background-repeat: no-repeat;
+  background-position: 50%;
+  height: 70%;
+  background-image: url('../images/purchases_icon_act.png');
+  background-size:contain;
+}
+
+.tabs .tab-item .icon.events {
+  background-repeat: no-repeat;
+  background-position: 50%;
+  height: 70%;
+  background-image: url('../images/events_icon.png');
+  background-size:contain;
+}
+
+.tabs .tab-item .icon.eventsAct {
+  background-repeat: no-repeat;
+  background-position: 50%;
+  height: 70%;
+  background-image: url('../images/events_icon_act.png');
+  background-size:contain;
+}

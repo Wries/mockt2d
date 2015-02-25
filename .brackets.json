@@ -1,0 +1,5 @@
+{
+    "jscodehints.detectedExclusions": [
+        "/Users/ondra/mockt2d/platforms/ios/build/emulator/mockt2d.app/www/plugins/com.ionic.keyboard/www/keyboard.js"
+    ]
+}
